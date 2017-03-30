@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Workout Tracker</string>
+    <string name="unknown_error">Unknown error. Please try again later.</string>
+    <string name="no_internet_connection">No internet connection. Please try again later.</string>
+    <string name="login_canceled">Login canceled. The app is getting closed.</string>
+    <string name="unknown_sign_in_response">Unknown sign in response. Please try again later.</string>
+    <string name="muscles">Muscles</string>
+    <string name="add_workout">Add Workout</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="problem_retrieving_workout_date">Problem retrieving the workout date.</string>
+    <string name="workout_date">Workout Date (dd/mm//yyyy)</string>
+</resources>
